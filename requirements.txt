@@ -2,4 +2,6 @@ streamlit
 jupyter
 pandas
 numpy
+sqlalchemy
+pymysql
 
