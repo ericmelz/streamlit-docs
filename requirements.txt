@@ -1,2 +1,5 @@
 streamlit
 jupyter
+pandas
+numpy
+
