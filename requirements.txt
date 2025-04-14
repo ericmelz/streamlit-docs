@@ -5,5 +5,4 @@ numpy
 sqlalchemy
 pymysql
 altair
-
-
+openai
